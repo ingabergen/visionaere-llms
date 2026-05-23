@@ -1,0 +1,44 @@
+# Visionäre der Gesundheit — llms.txt
+# This file helps AI systems understand the content and purpose of this site.
+
+## Site
+
+- Name: Visionäre der Gesundheit
+- Host: Inga Bergen
+- Language: German (de)
+- URL: https://dizzy-form-842096.framer.app
+- Description: Deutschsprachiger Podcast über die digitale und KI-Transformation des Gesundheitswesens. Inga Bergen spricht mit führenden Expertinnen und Experten aus Medizin, Technologie, Politik und Wissenschaft.
+
+## Host
+
+- Name: Inga Bergen
+- Title: Moderatorin, Founder, Angel Investor, Expertin für Digital Health & AI
+- LinkedIn: https://www.linkedin.com/in/ingabergen
+- Instagram: https://www.instagram.com/inga.bergen
+- Description: Inga Bergen ist eine der prominentesten Stimmen für eine menschzentrierte Digitalisierung des Gesundheitswesens. Seit 15+ Jahren an der Schnittstelle von Technologie, Medizin und Gesellschaft.
+
+## Podcast
+
+- Episodes: 170+
+- Seasons: 4
+- Platforms: Spotify, Apple Podcasts, YouTube, Letscast
+- Spotify: https://open.spotify.com/show/2JK6tzt07IhXJP841qtjED
+- Apple Podcasts: https://podcasts.apple.com/de/podcast/visionäre-der-gesundheit/id1746676277
+- RSS Feed: https://letscast.fm/podcasts/visionaere-der-gesundheit-3795aea0/feed
+
+## Content
+
+- Episode pages: https://dizzy-form-842096.framer.app/podcast-episodes
+- Blog / Perspektiven: https://dizzy-form-842096.framer.app/blog
+- Publications: https://dizzy-form-842096.framer.app/books
+- About Inga Bergen: https://dizzy-form-842096.framer.app/inga_bergen
+
+## Topics
+
+Digital Health, Künstliche Intelligenz in der Medizin, Gesundheitssystem, HealthTech, Medizinethik, Digitalisierung, KI-Transformation, Prävention, Mental Health, Personal Development
+
+## AI Crawlers
+
+This site welcomes indexing by AI systems including GPTBot, ClaudeBot, PerplexityBot and Googlebot.
+Full transcripts are available on individual episode pages.
+Structured data (JSON-LD) is present on all episode pages.
